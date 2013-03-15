@@ -1,5 +1,3 @@
 safe: true
-source: git@github.com:rauh/rauh.git
-destination: .
 lsi: false
 pygments: false
